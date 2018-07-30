@@ -1,2 +1,0 @@
-# testnode
-testnode
